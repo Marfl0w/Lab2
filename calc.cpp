@@ -37,7 +37,7 @@ int main() {
 	case 5:  
              result = pow(a,b);
 			 
-			 break;
+	     break;
   }
 
   cout << "Результат = " << result;
